@@ -1,6 +1,5 @@
 {
     "port": 5000,
     "jwtSecret": "Some secret value",
-    "mongoUri": "mongodb+srv://MonRoi27:pooman27@cluster0.6auxm.mongodb.net/",
-    "baseUrl": "http://localhost:5000"
+    "mongoUri": "mongodb+srv://MonRoi27:pooman27@cluster0.6auxm.mongodb.net/"
 }
